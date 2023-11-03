@@ -4,7 +4,7 @@ import Splash from "./src/screens/auth/Splash";
 const App = () => {
   return(
     <SafeAreaView>
-      <Splash />
+      <SignUp />
     </SafeAreaView>
   )
 }
